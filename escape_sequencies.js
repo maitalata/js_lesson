@@ -1,3 +1,3 @@
-const myStr = "FirstLine\r\t\\SecondLine\rThirdLine";
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 
 console.log(myStr);
